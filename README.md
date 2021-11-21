@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Partha Sarathi Parida</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/partha-bro](https://github.com/partha-bro)
+- 👨‍💻 All of my projects are available at [https://github.com/partha-bro](@partha-bro)
 
 - 📫 How to reach me **sarathi.partha95@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/partha-bro/resume.git](https://github.com/partha-bro/resume.git)
+- 📄 Know about my experiences [https://partha-bro.github.io/resume/](Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

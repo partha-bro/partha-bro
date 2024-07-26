@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sarathi.partha95@gmail.com**
 
-- 📄 Know about my experiences [https://partha-bro.github.io/resume/](https://partha-bro.github.io/resume/)
+- 📄 Know about my experiences [Profile](https://www.linkedin.com/in/partha-sarathi-parida-968676a3/)
 
 - ⚡ Fact **I also like to work on my personal finance.**
 
